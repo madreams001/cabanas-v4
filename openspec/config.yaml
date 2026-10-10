@@ -1,0 +1,8 @@
+# OpenSpec config — cabanas-v4 (scaffold, filled by sdd-init + upcoming phases)
+project: cabanas-v4
+stack:
+  frontend: vanilla HTML/CSS/JS
+  backend: Supabase (managed Postgres + Auth + RLS)
+testing:
+  runner: vitest
+  strict_tdd: false

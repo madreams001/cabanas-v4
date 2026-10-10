@@ -1,0 +1,6 @@
+node_modules/
+dist/
+coverage/
+.engram/
+.DS_Store
+*.log
